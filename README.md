@@ -29,4 +29,4 @@ Open the notebook and run all cells.
 
 ## 📁 Files
 * `country_wise_latest.csv`
-* `covid_analysis.ipynb`
+* `covid-19-2025.ipynb`
